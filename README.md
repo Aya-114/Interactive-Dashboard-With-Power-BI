@@ -14,7 +14,7 @@ This project includes **three interactive dashboards**:
 - Vehicle type analysis
 - Interactive slicers and conditional formatting
 
-![Overview Dashboard](images/overview.png)
+![Overview Dashboard](Dashboard%20Snapshots/overveiw.png)
 
 ### 2. Time Analysis Dashboard
 - Trip patterns by hour, day, and 10-minute intervals
